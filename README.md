@@ -95,16 +95,16 @@ If:
 
 #### 500 values | Count 4404
 
-![500 Values](https://github.com/erwkuvi/push_swap/tree/main/assets/push_swap_500.gif)
+![500 Values](https://github.com/erwkuvi/push_swap/blob/main/assets/push_swap_500.gif)
 
 #### 100 values | Count 572
 
-![100 Values](https://github.com/erwkuvi/push_swap/tree/main/assets/push_swap_100.gif)
+![100 Values](https://github.com/erwkuvi/push_swap/blob/main/assets/push_swap_100.gif)
 
 #### 50 values | Count 241
 
-![50 Values](https://github.com/erwkuvi/push_swap/tree/main/assets/push_swap_50.gif)
+![50 Values](https://github.com/erwkuvi/push_swap/blob/main/assets/push_swap_50.gif)
 
 #### 1000 values | Count 11246
 
-![1000 Values](https://github.com/erwkuvi/push_swap/tree/main/assets/push_swap_1000.gif)
+![1000 Values](https://github.com/erwkuvi/push_swap/blob/main/assets/push_swap_1000.gif)
