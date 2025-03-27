@@ -104,6 +104,7 @@ If:
 #### 50 values | Count 241
 
 ![50 Values](https://github.com/erwkuvi/push_swap/tree/main/assets/push_swap_50.gif)
+
 #### 1000 values | Count 11246
 
 ![1000 Values](https://github.com/erwkuvi/push_swap/tree/main/assets/push_swap_1000.gif)
